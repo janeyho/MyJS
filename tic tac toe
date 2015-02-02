@@ -1,0 +1,3 @@
+create 3 by 3 grid
+prompt user to input X and O
+only X and O inputs are allowed
